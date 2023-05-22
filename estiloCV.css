@@ -6,7 +6,7 @@
 }
 
 header {
-    background-image: url("/miCV/img/imgHeader.png");
+    background-image: url("/img/imgHeader.png");
     background-repeat: no-repeat;
     background-size: 100%;
     height: 300px;
@@ -219,7 +219,7 @@ nav {
 }
 
 footer {
-    background-image: url("/miCV/img/imgFooter.png");
+    background-image: url("/img/imgFooter.png");
     background-repeat: no-repeat;
     background-size: 100%;
     height: 300px;
